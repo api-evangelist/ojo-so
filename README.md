@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ojo-so is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ojo.so/
+ojo-so provides a platform for creating and managing document templates that can be filled with data from any source and rendered as PDFs or images via its MCP (Multi-Channel Publishing) API. Users can log in to obtain an API key, access a library of pre‑built templates for invoices, reports, and more, and customize them with dynamic fields. The service offers a free tier with 30 credits, no credit‑card requirement, and integrates with AI agents like Claude and ChatGPT. Documentation, pricing, and a status page are publicly available, and the company maintains a presence on GitHub, X, Instagram, YouTube, and TikTok.
+
+**Areas:** Company · Templates · API · Document-Generation · MCP
+
+## ojo-so on APIs.io
+
+Everything profiled for ojo-so is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ojo-so/](https://apis.io/providers/ojo-so/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [oJo API](https://apis.io/apis/ojo-so/ojo-api/) — Render images and PDFs from HTML or stored templates via the oJo platform.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ojo So Context](https://apis.io/jsonld/ojo-so/ojo-so-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ojo-so API Rules](https://apis.io/rules/ojo-so/ojo-so-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ojo So Authentication](https://apis.io/security/ojo-so/ojo-so-authentication/)
+- [Ojo So Domain Security](https://apis.io/security/ojo-so/ojo-so-domain-security/)
+- [Ojo So Vulnerability Disclosure](https://apis.io/security/ojo-so/ojo-so-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ojo So Plans Pricing](https://apis.io/plans/ojo-so/ojo-so-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ojo.so/)
+- [Documentation](https://ojo.so/docs)
+- [Getting started](https://ojo.so/templates)
+- [API reference](https://ojo.so/docs/mcp-server)
+- [Pricing](https://ojo.so/pricing)
+- [Security](https://ojo.so/docs/security)
+- [Terms of service](https://ojo.so/terms)
+- [Privacy policy](https://ojo.so/privacy)
+- [GitHub](https://github.com/ojodotso)
+- [Status](https://status.ojo.so)
+
+## API Evangelist rating
+
+**Kin Score 50.1** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 14.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 31.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ojo-so/](https://apis.io/providers/ojo-so/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ojo-so: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ojo-so/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
